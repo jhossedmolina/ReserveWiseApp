@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ReserveWiseAppBackend.Infraestructure/1.0.0": {
+        "dependencies": {
+          "ReserveWiseAppBackend.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ReserveWiseAppBackend.Infraestructure.dll": {}
+        }
+      },
+      "ReserveWiseAppBackend.Domain/1.0.0": {
+        "runtime": {
+          "ReserveWiseAppBackend.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ReserveWiseAppBackend.Infraestructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ReserveWiseAppBackend.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

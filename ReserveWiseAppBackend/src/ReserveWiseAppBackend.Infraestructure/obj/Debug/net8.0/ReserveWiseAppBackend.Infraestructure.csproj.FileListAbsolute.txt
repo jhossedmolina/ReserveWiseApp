@@ -1,0 +1,16 @@
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\bin\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.deps.json
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\bin\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\bin\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.AssemblyInfo.cs
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.sourcelink.json
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveW.A27B9E5F.Up2Date
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\refint\ReserveWiseAppBackend.Infraestructure.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ReserveWiseAppBackend.Infraestructure.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Infraestructure\obj\Debug\net8.0\ref\ReserveWiseAppBackend.Infraestructure.dll

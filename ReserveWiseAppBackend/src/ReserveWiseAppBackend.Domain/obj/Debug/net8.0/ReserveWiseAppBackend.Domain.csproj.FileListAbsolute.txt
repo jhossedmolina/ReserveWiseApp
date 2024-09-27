@@ -1,0 +1,12 @@
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.deps.json
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.AssemblyInfoInputs.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.AssemblyInfo.cs
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.sourcelink.json
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\refint\ReserveWiseAppBackend.Domain.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ReserveWiseAppBackend.Domain.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Domain\obj\Debug\net8.0\ref\ReserveWiseAppBackend.Domain.dll

@@ -1,0 +1,16 @@
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\bin\Debug\net8.0\ReserveWiseAppBackend.Application.deps.json
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\bin\Debug\net8.0\ReserveWiseAppBackend.Application.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\bin\Debug\net8.0\ReserveWiseAppBackend.Application.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\bin\Debug\net8.0\ReserveWiseAppBackend.Domain.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.csproj.AssemblyReference.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.AssemblyInfoInputs.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.AssemblyInfo.cs
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.csproj.CoreCompileInputs.cache
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.sourcelink.json
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveW.E57EC921.Up2Date
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\refint\ReserveWiseAppBackend.Application.dll
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ReserveWiseAppBackend.Application.pdb
+C:\Users\jhoss\Documents\Portfolio\ReserveWiseApp\ReserveWiseAppBackend\src\ReserveWiseAppBackend.Application\obj\Debug\net8.0\ref\ReserveWiseAppBackend.Application.dll
