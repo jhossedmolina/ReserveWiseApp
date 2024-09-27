@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "ReserveWiseAppBackend.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ReserveWiseAppBackend.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReserveWiseAppBackend.Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "ReserveWiseAppBackend.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ReserveWiseAppBackend.Domain/ReserveWiseAppBackend.Domain.csproj",
+      "msbuildProject": "../ReserveWiseAppBackend.Domain/ReserveWiseAppBackend.Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "ReserveWiseAppBackend.Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jhoss\\.nuget\\packages\\": {},
@@ -39,7 +58,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Domain\\ReserveWiseAppBackend.Domain.csproj": {
+              "projectPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Domain\\ReserveWiseAppBackend.Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

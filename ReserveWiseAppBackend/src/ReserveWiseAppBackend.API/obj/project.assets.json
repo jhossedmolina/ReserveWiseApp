@@ -88,6 +88,42 @@
         "frameworkReferences": [
           "Microsoft.AspNetCore.App"
         ]
+      },
+      "ReserveWiseAppBackend.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ReserveWiseAppBackend.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReserveWiseAppBackend.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReserveWiseAppBackend.Application.dll": {}
+        }
+      },
+      "ReserveWiseAppBackend.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/ReserveWiseAppBackend.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReserveWiseAppBackend.Domain.dll": {}
+        }
+      },
+      "ReserveWiseAppBackend.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "ReserveWiseAppBackend.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ReserveWiseAppBackend.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ReserveWiseAppBackend.Infraestructure.dll": {}
+        }
       }
     }
   },
@@ -420,10 +456,28 @@
         "swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
         "swashbuckle.aspnetcore.swaggerui.nuspec"
       ]
+    },
+    "ReserveWiseAppBackend.Application/1.0.0": {
+      "type": "project",
+      "path": "../ReserveWiseAppBackend.Application/ReserveWiseAppBackend.Application.csproj",
+      "msbuildProject": "../ReserveWiseAppBackend.Application/ReserveWiseAppBackend.Application.csproj"
+    },
+    "ReserveWiseAppBackend.Domain/1.0.0": {
+      "type": "project",
+      "path": "../ReserveWiseAppBackend.Domain/ReserveWiseAppBackend.Domain.csproj",
+      "msbuildProject": "../ReserveWiseAppBackend.Domain/ReserveWiseAppBackend.Domain.csproj"
+    },
+    "ReserveWiseAppBackend.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../ReserveWiseAppBackend.Infraestructure/ReserveWiseAppBackend.Infraestructure.csproj",
+      "msbuildProject": "../ReserveWiseAppBackend.Infraestructure/ReserveWiseAppBackend.Infraestructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "ReserveWiseAppBackend.Application >= 1.0.0",
+      "ReserveWiseAppBackend.Domain >= 1.0.0",
+      "ReserveWiseAppBackend.Infraestructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -459,7 +513,17 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Application\\ReserveWiseAppBackend.Application.csproj": {
+              "projectPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Application\\ReserveWiseAppBackend.Application.csproj"
+            },
+            "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Domain\\ReserveWiseAppBackend.Domain.csproj": {
+              "projectPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Domain\\ReserveWiseAppBackend.Domain.csproj"
+            },
+            "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Infraestructure\\ReserveWiseAppBackend.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Infraestructure\\ReserveWiseAppBackend.Infraestructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

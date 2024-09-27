@@ -6,4 +6,18 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Commands\" />
+    <Folder Include="DTOs\" />
+    <Folder Include="CommandHandlers\" />
+    <Folder Include="Services\" />
+    <Folder Include="QueryHandlers\" />
+    <Folder Include="Validators\" />
+    <Folder Include="Queries\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReserveWiseAppBackend.Domain\ReserveWiseAppBackend.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -6,4 +6,14 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Mapping\" />
+    <Folder Include="Adapters\" />
+    <Folder Include="Persistence\Context\Configurations\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReserveWiseAppBackend.Domain\ReserveWiseAppBackend.Domain.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -10,4 +10,14 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ReserveWiseAppBackend.Application\ReserveWiseAppBackend.Application.csproj" />
+    <ProjectReference Include="..\ReserveWiseAppBackend.Domain\ReserveWiseAppBackend.Domain.csproj" />
+    <ProjectReference Include="..\ReserveWiseAppBackend.Infraestructure\ReserveWiseAppBackend.Infraestructure.csproj" />
+  </ItemGroup>
+
 </Project>

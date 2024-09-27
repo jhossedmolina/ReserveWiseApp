@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ReserveWiseAppBackend.Infraestructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e85ccf00cca72b0c55b13affe8de5ae216a39f58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d937bc407206ad5cca1d637e3564a5070a217b44")]
 [assembly: System.Reflection.AssemblyProductAttribute("ReserveWiseAppBackend.Infraestructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ReserveWiseAppBackend.Infraestructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
