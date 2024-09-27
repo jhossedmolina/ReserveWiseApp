@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <Folder Include="Commands\" />
-    <Folder Include="DTOs\" />
     <Folder Include="CommandHandlers\" />
     <Folder Include="Services\" />
     <Folder Include="QueryHandlers\" />
