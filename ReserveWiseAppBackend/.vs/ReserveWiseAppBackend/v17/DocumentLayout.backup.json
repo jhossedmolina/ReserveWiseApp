@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFE6DF52-FBE6-4C80-9241-2873C301B604}|src\\ReserveWiseAppBackend.Application\\ReserveWiseAppBackend.Application.csproj|c:\\users\\jhoss\\documents\\portfolio\\reservewiseapp\\reservewiseappbackend\\src\\reservewiseappbackend.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFE6DF52-FBE6-4C80-9241-2873C301B604}|src\\ReserveWiseAppBackend.Application\\ReserveWiseAppBackend.Application.csproj|solutionrelative:src\\reservewiseappbackend.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}|src\\ReserveWiseAppBackend.Infraestructure\\ReserveWiseAppBackend.Infraestructure.csproj|c:\\users\\jhoss\\documents\\portfolio\\reservewiseapp\\reservewiseappbackend\\src\\reservewiseappbackend.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}|src\\ReserveWiseAppBackend.Infraestructure\\ReserveWiseAppBackend.Infraestructure.csproj|solutionrelative:src\\reservewiseappbackend.infraestructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B878B1EF-714F-495D-BE67-CEC2B258F819}|src\\ReserveWiseAppBackend.Domain\\ReserveWiseAppBackend.Domain.csproj|c:\\users\\jhoss\\documents\\portfolio\\reservewiseapp\\reservewiseappbackend\\src\\reservewiseappbackend.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B878B1EF-714F-495D-BE67-CEC2B258F819}|src\\ReserveWiseAppBackend.Domain\\ReserveWiseAppBackend.Domain.csproj|solutionrelative:src\\reservewiseappbackend.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ReserveWiseAppBackend.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Application\\Class1.cs",
+              "RelativeToolTip": "src\\ReserveWiseAppBackend.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:50:06.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Infraestructure\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ReserveWiseAppBackend.Infraestructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Infraestructure\\Class1.cs",
+              "RelativeToolTip": "src\\ReserveWiseAppBackend.Infraestructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:49:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\ReserveWiseAppBackend.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\jhoss\\Documents\\Portfolio\\ReserveWiseApp\\ReserveWiseAppBackend\\src\\ReserveWiseAppBackend.Domain\\Class1.cs",
+              "RelativeToolTip": "src\\ReserveWiseAppBackend.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T04:49:03.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

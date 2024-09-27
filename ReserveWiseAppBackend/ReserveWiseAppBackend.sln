@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{8521AD78-1911-4135-BDE4-5F17954E01C3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{AC52108F-7C81-4E8A-817F-13DEE0DD10C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserveWiseAppBackend.Domain", "src\ReserveWiseAppBackend.Domain\ReserveWiseAppBackend.Domain.csproj", "{B878B1EF-714F-495D-BE67-CEC2B258F819}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserveWiseAppBackend.Infraestructure", "src\ReserveWiseAppBackend.Infraestructure\ReserveWiseAppBackend.Infraestructure.csproj", "{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserveWiseAppBackend.Application", "src\ReserveWiseAppBackend.Application\ReserveWiseAppBackend.Application.csproj", "{BFE6DF52-FBE6-4C80-9241-2873C301B604}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReserveWiseAppBackend.API", "src\ReserveWiseAppBackend.API\ReserveWiseAppBackend.API.csproj", "{FAA66E13-C1B7-48E4-8FF1-5BA080AB354E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B878B1EF-714F-495D-BE67-CEC2B258F819}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B878B1EF-714F-495D-BE67-CEC2B258F819}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B878B1EF-714F-495D-BE67-CEC2B258F819}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B878B1EF-714F-495D-BE67-CEC2B258F819}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FD08F8A-72D7-48A1-93D2-A5C92117F08E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFE6DF52-FBE6-4C80-9241-2873C301B604}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE6DF52-FBE6-4C80-9241-2873C301B604}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE6DF52-FBE6-4C80-9241-2873C301B604}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE6DF52-FBE6-4C80-9241-2873C301B604}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAA66E13-C1B7-48E4-8FF1-5BA080AB354E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAA66E13-C1B7-48E4-8FF1-5BA080AB354E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAA66E13-C1B7-48E4-8FF1-5BA080AB354E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAA66E13-C1B7-48E4-8FF1-5BA080AB354E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B878B1EF-714F-495D-BE67-CEC2B258F819} = {8521AD78-1911-4135-BDE4-5F17954E01C3}
+		{2FD08F8A-72D7-48A1-93D2-A5C92117F08E} = {8521AD78-1911-4135-BDE4-5F17954E01C3}
+		{BFE6DF52-FBE6-4C80-9241-2873C301B604} = {8521AD78-1911-4135-BDE4-5F17954E01C3}
+		{FAA66E13-C1B7-48E4-8FF1-5BA080AB354E} = {8521AD78-1911-4135-BDE4-5F17954E01C3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24ED420E-8844-4F32-9080-6EAC38B4A9B9}
+	EndGlobalSection
+EndGlobal
